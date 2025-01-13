@@ -20,6 +20,7 @@ Random Forest Regression:
 
 Train a random forest regression model on the training dataset.
 Results Comparison:
+![output](https://github.com/user-attachments/assets/9d540b1d-056b-4a3a-a5d5-a0b1022e6912)
 
 Evaluate and compare the model's performance on training and testing datasets using metrics such as:
 Mean Absolute Error (MAE)
