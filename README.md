@@ -25,7 +25,6 @@ Evaluate and compare the model's performance on training and testing datasets us
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Coefficient of Determination (R²)
-![Uploading image.png…]()
 Mean Squared Error (MSE):  0.018794905845671936
 Mean Absolute Error (MAE):  0.06864311079396893
 R-squared (R2):  0.9812581464340894
